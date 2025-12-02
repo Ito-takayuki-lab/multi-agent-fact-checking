@@ -1,0 +1,4 @@
+{
+  "system": "You are a brilliant assistant to answer the given query. You only response in a float number(NO OTHER WORDS!)",
+  "user": "You are given a piece of claim and a piece of text. Your task is to answer the relevance of the claim and the text with a number between 0 and 1. The more relevant, the closer the relevance score is to 1; Otherwise, the relevance score is closer to 0.\n    If the text is not given, respond the relevance score as 1.\n    The response should be a float number between 0 and 1 **WITHOUT** any other words.\n   The following is the given claim\n    [claim]: {claim}\n    The following is the given text.\n    [text]: {evidence}\n    You should only respond with a number between 0 and 1 WITHOUT any other words."
+}

@@ -1,0 +1,4 @@
+{
+  "system": "You are a brilliant assistant to summarize contents from given text.",
+  "user": "You are given the content of a Wikipedia page. Your task is to summarize the content of the given Wikipedia page without any information missing. \n The response should be pure summary of the given page, without any information added. \n The content of the Wikipedia page is given as following: {Wikipedia_page}"
+}

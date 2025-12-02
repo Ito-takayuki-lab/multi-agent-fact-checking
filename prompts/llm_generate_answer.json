@@ -1,0 +1,4 @@
+{
+  "system": "You are a brilliant assistant to answer the given query.",
+  "user": "You are given a piece of query. Your task is to answer the query based on your own knowledge.\n  You must be careful when you give the answer, try to avoid hallucination and check your answer twice before you give your response.\n   Here are three examples:\n   query: Who is the CEO of twitter?\n   response: \"Linda Yaccarino\"\n\n   query: Who is the most decorated Olympian of all time?\n    response: \"Michael Phelps\"\n\n    query: Who created ChatGPT?\n response: \"ChatGPT\"\n\n   Now complete the following\n    query: {query}\n    response: "
+}
