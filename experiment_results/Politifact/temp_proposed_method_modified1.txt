@@ -1,3 +1,0 @@
-mostly-false
-mostly-false
-mostly-true
